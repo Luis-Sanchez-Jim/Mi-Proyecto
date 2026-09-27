@@ -7,8 +7,8 @@
 - **Exportación a Excel y PDF** con formato profesional (`openpyxl` y `reportlab`).
 - **Gestión de imágenes** en Clientes y Dispositivos:
   - Selección desde el explorador de archivos (solo JPG/PNG, máx. 5 MB).
-  - Redimensionamiento, filtro de nitidez y conversión de formato a JPG (Pillow).
-  - Vista previa en miniatura, descarga y eliminación de la imagen.
+  - Quitar una imagen Seleccionada
+  - Descarga de la imagen cargada en la base de datos.
 - **Selector de fecha con calendario** (`tkcalendar`) en el módulo de Informes.
 - **Temas claro/oscuro** intercambiables, con el tema elegido persistiendo entre módulos y entre reinicios de la aplicación.
 - **Iconografía consistente** en todos los botones (`ttk.Button` + íconos).
